@@ -10,3 +10,5 @@ Internet Memes Classification using keras
 2.把name中的下划线去掉等等
 
 3.加入学习率衰减
+
+4.ENet B7 + DenseNet
